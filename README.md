@@ -19,7 +19,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://i.imgur.com/7jE0Trp.mp4' title='Flix' width='' alt='Video Demo' />
+<img src='https://i.imgur.com/lzKC5Y6.gif' title='Flix' width='' alt='Video Demo' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
